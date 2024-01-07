@@ -19,7 +19,7 @@ Watch the [✨ YouTube Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 ## Run instructions
 
 1. Install latest version of [Python](https://www.python.org/).
-2. You can replace dataset with your own data in `linear_regression.py` file, line `4`.
+2. You can replace dataset with your own data in `main.py` file, line `4`.
 3. Run the script.
    
 ```bash
