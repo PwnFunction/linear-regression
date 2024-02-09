@@ -9,12 +9,12 @@ Learn how to build a linear regression model from scratch.
 ## YouTube video
 
 <p>
-  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>
-    <img src="https://user-images.githubusercontent.com/19750782/178938498-371e69b9-1182-427a-86c3-dca3e769e7ef.png" alt="PwnFunction YouTube Video" width="400">
+  <a href='https://youtu.be/jIfxXzjpmSc'>
+    <img src="https://github.com/PwnFunction/linear-regression/assets/19750782/f6bf3c8e-f01f-40c2-9ed8-7e83b01c8a7c" alt="PwnFunction YouTube Video" width="400">
   </a>
 </p>
 
-Watch the [✨ YouTube Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+Watch the [✨ YouTube Video](https://youtu.be/jIfxXzjpmSc).
 
 ## Run instructions
 
